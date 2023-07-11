@@ -65,6 +65,7 @@ Analysis
 The "EV_POPULATION.sql" script provides several SQL queries and views to facilitate the analysis of the EV population data. Some of the analysis tasks that can be performed include:
 
 Calculating the total number of electric vehicles registered over a specific period.
+<img width="259" alt="Screenshot 2023-07-10 at 9 48 29 PM" src="https://github.com/Amna-Khan-S/Electric_Vehicle/assets/139021333/10fdc155-dbdd-4a83-a5e7-edb5fcad762f">
 Identifying the top electric vehicle models by their registration count.
 Analyzing the growth rate of the EV market over time.
 Investigating the distribution of electric vehicles by make, model, and year.
