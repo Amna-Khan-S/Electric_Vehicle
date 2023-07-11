@@ -7,7 +7,6 @@ WHERE Model_year != 2024
 GROUP BY Registration_Year
 ORDER BY Registration_Year;
 
-<img width="259" alt="Screenshot 2023-07-10 at 9 48 29 PM" src="https://github.com/Amna-Khan-S/Electric_Vehicle/assets/139021333/10fdc155-dbdd-4a83-a5e7-edb5fcad762f">
 --Q2: Which specific EV manufacturer are most prevalent?
 
 SELECT make AS manufacturer, count (dol_vehicle_id) AS car_count
